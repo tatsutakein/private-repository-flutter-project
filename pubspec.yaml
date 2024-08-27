@@ -1,4 +1,4 @@
-name: template_workspace
+name: private_repository_flutter_project
 environment:
   sdk: ^3.3.1
 

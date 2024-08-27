@@ -1,13 +1,10 @@
-name: template
+name: private_repository_flutter_project
 sdkPath: .fvm/flutter_sdk
 
 packages:
   - apps/*
   - packages/cores/*
   - packages/features/*
-  - packages/samples/*
-  - samples/*
-
 command:
   bootstrap:
     environment:
